@@ -11,9 +11,6 @@ Developed and maintained by the Infrastructure Security Engineering Division of 
 
 ***
 
-
-***
-
 ## Online Demonstration & Defensive Architecture Hub
 
 You can inspect the technical defensive specifications, architectural diagnostic tests, and mitigation blueprints directly in your browser:
@@ -50,6 +47,14 @@ sudo python3 http2_kernel_dos_checker.py -kernel
 # 3. Output results in machine-readable JSON format
 sudo python3 http2_kernel_dos_checker.py -kernel -json
 ```
+
+***
+
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
 
 ***
 
