@@ -58,10 +58,4 @@ sudo python3 http2_kernel_dos_checker.py -kernel -json
 
 ***
 
-## Governance and Sovereignty
-
-* **Organization:** TAVARDT-New-Zealand
-* **Jurisdiction:** New Zealand
-* **Standards Compliance:** CIS Linux Benchmarks, RFC 7540, RFC 9113, CVE-2023-44487, and Zero Trust Architecture.
-
-Developed by the Infrastructure & Cybersecurity Division of **TAVARDT New Zealand**. All rights reserved.
+© 2026 TAVARDT. All rights reserved.
